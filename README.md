@@ -26,9 +26,11 @@
 </p>
 
 
+
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=moion/moion&type=Date)](https://star-history.com/#moion/moion&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=moion/moion&type=Date)](https://star-history.com/#moion/moion)
+
 
 
 

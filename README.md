@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7268E&center=true&vCenter=true&width=435&lines=%E4%BA%BA%E7%94%9F%E5%A6%82%E6%88%8F;Life+is+fucking+movie%EF%BC%81)](https://git.io/typing-svg)
+
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/moion/moion/graphs/contributors"><img src="https://img.shields.io/github/contributors/moion/moion?color=blue"></a>

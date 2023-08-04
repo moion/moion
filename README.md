@@ -15,3 +15,6 @@
 
 <!--   grid-snake -->
 ![](https://github.com/moion/moion/blob/output/github-contribution-grid-snake.svg)
+
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=moion" width="auto"></img>

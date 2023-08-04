@@ -30,27 +30,41 @@
   
  ```geojson
 {
-"type": "FeatureCollection",
-"features": [
-  {
-    "type": "Feature",
-    "id": 1,
-    "properties": {
-      "ID": 0
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
-            [23.5,53.9],
-            [32.6,52.6]
-        ]
-      ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              104.67224912088926,
+              31.82208019488722
+            ],
+            [
+              104.67224912088926,
+              31.677854648974247
+            ],
+            [
+              104.83568844922496,
+              31.677854648974247
+            ],
+            [
+              104.83568844922496,
+              31.82208019488722
+            ],
+            [
+              104.67224912088926,
+              31.82208019488722
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
     }
-  }
-]
+  ]
 }
-
 ```
 
 ## Star History

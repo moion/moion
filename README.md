@@ -25,3 +25,16 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moion" alt="moion" /></a>
 </p>
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=moion/moion&type=Date)](https://star-history.com/#moion/moion&Date)
+
+
+
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@moion.github.readme)
+</br>
+

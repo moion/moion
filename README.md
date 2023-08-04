@@ -13,6 +13,16 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moion"></img>
 
 
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+   ```
+
 <!--   grid-snake -->
 ![](https://github.com/moion/moion/blob/output/github-contribution-grid-snake.svg)
 

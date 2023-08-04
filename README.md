@@ -37,7 +37,9 @@ graph TD;
 
 
 <!-- Belarus - My Home-->
-  
+<div align="center">
+<summary>My Home</summary>
+</div>
  ```geojson
 {
   "type": "FeatureCollection",

@@ -40,6 +40,7 @@ graph TD;
 <div align="center">
 <summary>My Home</summary>
 </div>
+
  ```geojson
 {
   "type": "FeatureCollection",

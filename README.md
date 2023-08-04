@@ -17,4 +17,11 @@
 ![](https://github.com/moion/moion/blob/output/github-contribution-grid-snake.svg)
 
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=moion" width="auto"></img>
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moion" alt="moion" /></a>
+</p>
+

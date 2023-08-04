@@ -1,4 +1,8 @@
+
+
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7268E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%E4%BE%9D%E7%84%B6%E8%8C%83%E5%BE%B7%E5%BD%AA;Life+is+fucking+movie%EF%BC%81)](https://git.io/typing-svg)
+</div>
 
 <!--   my-icons -->
 <p align="center">

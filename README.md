@@ -25,12 +25,12 @@
 
 ```mermaid
 graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
+    Embedded development-->Digital circuits;
+    Embedded development-->Analog circuits;
+    Embedded development-->Algorithms;
+    Embedded development-->C&C++&Python;
+    Embedded development-->EDA;
+    Embedded development-->Control engineering;
    ```
 
 <!--   grid-snake -->

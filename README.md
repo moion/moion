@@ -5,21 +5,21 @@
     
 
 <!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/moion/moion/graphs/contributors"><img src="https://img.shields.io/github/contributors/moion/moion?color=blue"></a>
-    <a href="https://github.com/moion/moion/stargazers"><img src="https://img.shields.io/github/stars/moion/moion.svg?logo=github"></a>
-    <a href="https://github.com/moion/moion/network/members"><img src="https://img.shields.io/github/forks/moion/moion.svg?color=blue&logo=github"></a>
-</p>
+
+<a href="https://github.com/moion/moion/graphs/contributors"><img src="https://img.shields.io/github/contributors/moion/moion?color=blue"></a>
+<a href="https://github.com/moion/moion/stargazers"><img src="https://img.shields.io/github/stars/moion/moion.svg?logo=github"></a>
+<a href="https://github.com/moion/moion/network/members"><img src="https://img.shields.io/github/forks/moion/moion.svg?color=blue&logo=github"></a>
 
 
- ![moion's github stats](https://github-readme-stats.vercel.app/api?username=moion&show_icons=true&theme=radical&include_all_commits=true) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moion&theme=monokai)
+
+ ![moion's github stats](https://github-readme-stats.vercel.app/api?username=moion&show_icons=true&theme=radical&include_all_commits=true)
+ 
  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moion&theme=radical&layout=compact) 
 
-<div align="center">
-    
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moion"></img>
 
-</div>
+
 
 ```mermaid
 graph TD;
@@ -36,9 +36,9 @@ graph TD;
 ![](https://github.com/moion/moion/blob/output/github-contribution-grid-snake.svg)
 
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
+
+#### Trophy: Github Profile Trophy
+
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moion" alt="moion" /></a>
@@ -46,8 +46,6 @@ graph TD;
 
 
 #### Thanks for visiting :heart:
-
-[![Sparkline](https://stars.medv.io/moion/moion.svg)](https://stars.medv.io/moion/moion)
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/moion/count.svg">  

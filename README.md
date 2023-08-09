@@ -13,9 +13,8 @@
 </p>
 
 
-| Stats                                                                                                                                       | Languages                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![moion's github stats](https://github-readme-stats.vercel.app/api?username=moion&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moion&theme=radical&layout=compact) |
+ ![moion's github stats](https://github-readme-stats.vercel.app/api?username=moion&show_icons=true&theme=radical&include_all_commits=true) 
+ ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moion&theme=radical&layout=compact) 
 
 <div align="center">
     
@@ -47,14 +46,9 @@ graph TD;
 </p>
 
 
-<!-- Belarus - My Home-->
-<div align="center">
-<summary>My Home</summary>
-</div>
-
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
 #### Thanks for visiting :heart:
+
+[![Sparkline](https://stars.medv.io/moion/moion.svg)](https://stars.medv.io/moion/moion)
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/moion/count.svg">  

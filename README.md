@@ -52,17 +52,6 @@ graph TD;
     
 <a href="https://info.flagcounter.com/YPVh"><img src="https://s11.flagcounter.com/countxl/YPVh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_21/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/moion/moion.svg)](https://starchart.cc/moion/moion)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=moion/moion&type=Date)](https://star-history.com/#moion/moion)
-
-
-
-
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
